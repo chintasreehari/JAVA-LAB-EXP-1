@@ -9,7 +9,7 @@ int i;
 long l;
 float f;
 double d;
-char r;
+char c;
 boolean bool;
 public static void main(String[] args){
 DefaultPremitiveValues obj= new DefaultPremitiveValues();
@@ -17,7 +17,10 @@ System.out.println("default byte value :"+obj.b);
 System.out.println("default byte value :"+obj.s);
 System.out.println("default byte value :"+obj.i);
 System.out.println("default byte value :"+obj.l);
-System.out.println("default bytr value :"+obj.f);
+System.out.println("default byte value :"+obj.f);
+System.out.println("default byte value :"+obj.d);
+System.out.println("default byte value :"+obj.c);
+System.out.println("default byte value :"+obj.bool);
 }
 }
 
