@@ -1,6 +1,6 @@
 # JAVA-LAB-EXP-1
 ##TITTLE:-DefaultPremitiveValues Program
-```
+```java
 class  DefaultPremitiveValues
 {
 byte b;
@@ -22,3 +22,4 @@ System.out.println("default bytr value :"+obj.f);
 }
 ```
 #output
+![output of Primitive](Primitive.png)
