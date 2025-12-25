@@ -68,4 +68,5 @@ sc.close();
  }
 ```
 #output
-![output of Quadratic](
+![output of Quadratic](Quadratic.png)
+
